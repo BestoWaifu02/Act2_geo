@@ -1,7 +1,7 @@
 # SchoolPractices-Maps
 
 ### Description
-> **This is a compilation of my school practices with google maps **
+> **This is a compilation of my school practices with google maps**
 
 ## Technologies employed
 
