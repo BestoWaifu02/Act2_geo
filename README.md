@@ -30,8 +30,7 @@
 6. <https://bestowaifu02.github.io/Act2_geo/practica6>
 7. <https://bestowaifu02.github.io/Act2_geo/practica7>
 8. <https://bestowaifu02.github.io/Act2_geo/practica8>
-9. <
-https://bestowaifu02.github.io/Act2_geo/practica9>
+9. <https://bestowaifu02.github.io/Act2_geo/practica9>
 
 
 ### <s>Random Waifu</s>
